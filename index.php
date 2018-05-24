@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.caffeineinformer.com/caffeine-headache");
+header("Location: http://www.neptunedoorco.com/");
 die();
 ?>
