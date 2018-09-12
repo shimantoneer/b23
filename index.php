@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.neptunedoorco.com/");
+header("Location: https://www.pinterest.com/eppelas/building-construction/");
 die();
 ?>
